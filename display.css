@@ -1,0 +1,25 @@
+.first-cont {
+color: white;
+background-color: blue;
+width: 300px;
+}
+
+.second-cont {
+    color: white;
+    background-color: rgb(179, 111, 33);
+    width: 300px;
+}
+
+.third-cont{
+    background-color: rgb(171, 132, 207);
+    width: 300px;
+    display: block;
+
+}
+
+.forth-cont{
+    background-color: rgb(97, 64, 128);
+    width: 300px;
+    display: inline-block;
+
+}

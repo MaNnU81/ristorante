@@ -1,0 +1,97 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Chokokutai&display=swap');
+
+
+body {
+
+    background-color: blue;
+    font-family: "Chokokutai", serif;
+}
+
+.green-title{
+
+color: beige;
+font-size: xx-large;
+
+}
+
+.red-title{
+color: black;
+font-size: xx-large;
+
+}
+
+#paragrafo-lorem{
+
+   color: rgb(108, 186, 192); 
+  
+   
+}
+
+header,footer {
+
+border-style: solid;
+}
+
+
+footer {
+/* padding-left: 18px;
+padding-top: 100px;
+padding-right: 100px;
+padding-bottom: 200px; */
+
+/* padding: 100px 100px 50px 200px; top left  bottom right*/
+
+/* padding: 100px 200px top-bottom  left-right; */
+
+margin-left: 50px;
+padding: 10px 10px 10px 10px;
+}
+
+
+.resized-p{
+
+    background-color: deeppink;
+    color: gold;
+    /* width: 300px;
+    height: 0px;
+    margin-left: 50px;
+    overflow: auto; */
+    max-width: 800px;
+    min-width: 700px;
+}
+
+.mother{
+background-color: indigo;
+padding: 8px;
+/* width: 50%; */
+width: 800px;
+border-radius: 20px;
+/* border: solid green 20px; */
+}
+
+.son{
+background-color: chartreuse;
+width: 50vw;
+border-radius: 20px;
+padding: 10px;
+}
+
+.strange-borders{
+border-style: solid;
+border-color: coral;
+border-width: 1px;
+border-radius: 20px;
+padding: 10px;
+
+}
+
+header{
+    color: beige;
+    padding: 12px;
+   background-image: url(./assets/banner-1557834_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+  background-position: center bottom;
+}
